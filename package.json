@@ -1,0 +1,25 @@
+{
+    "name": "requirejs-exports",
+    "version": "0.0.1",
+    "description": "An AMD loader plugin for loading module exports.",
+    "categories": [
+        "Loader plugins"
+    ],
+    "main": "exports.js",
+    "github": "https://github.com/leog/requirejs-exports",
+    "bugs": {
+        "web": "https://github.com/leog/requirejs-exports/issues"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/leog/requirejs-exports.git"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ]
+}
